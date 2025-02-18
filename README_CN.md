@@ -668,6 +668,12 @@ Step-Audio 的在线版本可以通过[跃问](https://yuewen.cn) 的应用程�
 }
 ```
 
-## Star History
+## 🌟 Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=stepfun-ai/Step-Audio&type=Date)](https://star-history.com/#stepfun-ai/Step-Audio&Date)
+<a href="GitHub - stepfun-ai/Step-Audio" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=stepfun-ai/Step-Audio&type=Date&theme=dark" />
+    <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=stepfun-ai/Step-Audio&type=Date" />
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=stepfun-ai/Step-Audio&type=Date" />
+  </picture>
+</a>
